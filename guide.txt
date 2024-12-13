@@ -5,3 +5,4 @@ git commit -m '<СООБЩЕНИЕ>' ->
 git push -> Отправить все изменения на сервер ГИТа
 git remote add origin <URL> -> Связать папку с ГИТ репозиторием по <URL>
 git push --set-upstream origin master -> Настроить push чтобы заливалось в главную ветку
+git branch <ИМЯ ВЕТКИ> -> Создать новую ветку с именем <ИМЯ ВЕТКИ>
